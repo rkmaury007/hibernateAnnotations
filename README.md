@@ -1,4 +1,4 @@
-# hibernateAnnotations
+# Hibernate Annotations
 @AccessType
 The @AccessType annotation is deprecated. You should use either the JPA @Access or the Hibernate native @AttributeAccessor annotation.
 
